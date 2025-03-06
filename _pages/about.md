@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-LoMy name is Zhenrong Wang, and I am a third-year undergraduate student at Shenzhen University, majoring in Electronic Information Engineering. I am expected to graduate in June 2026. My research is supervised by Professor Wenming Cao and Professor [Qi Zheng](https://hoi-tg.github.io/).
+My name is Zhenrong Wang, and I am a third-year undergraduate student at Shenzhen University, majoring in Electronic Information Engineering. I am expected to graduate in June 2026. My research is supervised by Professor Wenming Cao and Professor [Qi Zheng](https://hoi-tg.github.io/).
 
 ## Research Interests
 
 - Human Action Recognition  
 - Human and Object Interaction  
 - Humanoid Skill Learning
-- 
-Currently, I am conducting research on humanoid interaction.
+
+Currently, I am conducting research on humanoid interaction. I am looking for a PhD position starting in Fall 2026.
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 ''End-to-End HOI Reconstruction Transformer with Graph-based Encoding." has been accepted to CVPR 2025. This is my first paper.[Paper][Project Page](https://hoi-tg.github.io/)  
