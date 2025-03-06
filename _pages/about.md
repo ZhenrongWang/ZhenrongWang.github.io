@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Zhenrong Wang, and I am a third-year undergraduate student at Shenzhen University, majoring in Electronic Information Engineering. I am expected to graduate in June 2026. My research is supervised by Professor [Wenming Cao](https://scholar.google.com/citations?user=uPxjSDIAAAAJ&hl=zh-CN) and Assistant Professor [Qi Zheng](https://hoi-tg.github.io/).
+My name is Zhenrong Wang, and I am a third-year undergraduate student at Shenzhen University, majoring in Electronic Information Engineering. I am expected to graduate in June 2026. My research is supervised by Professor [Wenming Cao](https://scholar.google.com/citations?user=uPxjSDIAAAAJ&hl=zh-CN) and Assistant Professor [Qi Zheng](https://hoi-tg.github.io/). Here is my [CV](https://github.com/ZhenrongWang/ZhenrongWang.github.io/blob/main/Zhenrong_Wang_CV.pdf).
 
 ## Research Interests
 
