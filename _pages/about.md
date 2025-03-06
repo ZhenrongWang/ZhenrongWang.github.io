@@ -23,7 +23,7 @@ My name is Zhenrong Wang, and I am a third-year undergraduate student at Shenzhe
 
 - 🧠 **Unsupervised Learning** for Action Understanding
 - 👐 **Human-Object Interaction** (HOI) Recognition  
-- 🤖 **Humanoid Robot** Skill Acquisition  
+- 🤖 **Humanoid Robot** Skill Learning  
 
 *Seeking PhD opportunities in Robotics/Computer Vision for Fall 2026 admission* 
 
