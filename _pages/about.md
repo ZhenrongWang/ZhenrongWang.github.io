@@ -33,7 +33,7 @@ Currently, I am conducting research on humanoid interaction. I am looking for a 
 # 📝 Publications 
 - **Zhenrong Wang**, Qi Zheng, et al. "End-to-End HOI Reconstruction Transformer with Graph-based Encoding." *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025.* [Paper][Project Page](https://hoi-tg.github.io/)
 
-*Under Review: *
+*Under Review:*
 
 - Jianqi Zhong<sup>#</sup>, **Zhenrong Wang**<sup>#</sup>, et al. "HiMAE: High-intensity Mask-based Autoencoder Framework for Unsupervised Human Action Recognition." *Artificial Intelligence* (Major Revision)  
   ( <sup>#</sup> means equal contribution.)  
