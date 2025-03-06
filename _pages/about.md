@@ -36,9 +36,9 @@ Currently, I am conducting research on humanoid interaction. I am looking for a 
 
 *Under Review:*
 
-- Jianqi Zhong (*), **Zhenrong Wang (*)**, et al. "HiMAE: High-intensity Mask-based Autoencoder Framework for Unsupervised Human Action Recognition." 
+- Jianqi Zhong<sup>#</sup>, **Zhenrong Wang**<sup>#</sup>, et al. "HiMAE: High-intensity Mask-based Autoencoder Framework for Unsupervised Human Action Recognition." 
   *Artificial Intelligence* (Major Revision)  
-  (* means equal contribution.)  
+  (<sup>#</sup> means equal contribution.)  
 
 # 📖 Educations
 
