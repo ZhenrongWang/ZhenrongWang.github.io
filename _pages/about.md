@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Zhenrong Wang, and I am a third-year undergraduate student at Shenzhen University, majoring in Electronic Information Engineering. I am expected to graduate in June 2026. My research is supervised by Professor Wenming Cao and Professor [Qi Zheng](https://hoi-tg.github.io/).
+My name is Zhenrong Wang, and I am a third-year undergraduate student at Shenzhen University, majoring in Electronic Information Engineering. I am expected to graduate in June 2026. My research is supervised by Professor [Wenming Cao](https://scholar.google.com/citations?user=uPxjSDIAAAAJ&hl=zh-CN) and Assistant Professor [Qi Zheng](https://hoi-tg.github.io/).
 
 ## Research Interests
 
@@ -48,5 +48,5 @@ Currently, I am conducting research on humanoid interaction. I am looking for a 
 
 # 💻 Internships
 
-- *2026.09 - Present*, Research Assistant (Supervised by Assistant Professor [Wenming Cao]) in Guangdong Multimedia Information Service Engineering Technology Research Center, SZU.
+- *2026.09 - Present*, Research Assistant (Supervised by Assistant Professor [Wenming Cao](https://scholar.google.com/citations?user=uPxjSDIAAAAJ&hl=zh-CN)) in Guangdong Multimedia Information Service Engineering Technology Research Center, SZU.
 - *2024.10 - Present*, Research Assistant (Supervised by Assistant Professor [Qi Zheng]([https://jasonzhangs001.github.io/shiyaozhang/)](https://qizhust.github.io/)) in Guangdong Digital Creative Technology Engineering Laboratory, SZU.
