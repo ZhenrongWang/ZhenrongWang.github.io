@@ -31,14 +31,12 @@ Currently, I am conducting research on humanoid interaction. I am looking for a 
 - *2025.03*: &nbsp;🎉🎉 ''End-to-End HOI Reconstruction Transformer with Graph-based Encoding." has been accepted to CVPR 2025. This is my first paper.[Paper][Project Page](https://hoi-tg.github.io/)  
 
 # 📝 Publications 
-- **Zhenrong Wang**, Qi Zheng, et al.  
-  *"End-to-End HOI Reconstruction Transformer with Graph-based Encoding."*  
+- **Zhenrong Wang**, Qi Zheng, et al. "End-to-End HOI Reconstruction Transformer with Graph-based Encoding."  
   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025.* [Paper][Project Page](https://hoi-tg.github.io/)
 
 *Under Review:*
 
-- Jianqi Zhong (*), **Zhenrong Wang (*)**, et al.  
-  *"HiMAE: High-intensity Mask-based Autoencoder Framework for Unsupervised Human Action Recognition."*  
+- Jianqi Zhong (*), **Zhenrong Wang (*)**, et al. "HiMAE: High-intensity Mask-based Autoencoder Framework for Unsupervised Human Action Recognition." 
   *Artificial Intelligence* (Major Revision)  
   (* means equal contribution.)  
 
