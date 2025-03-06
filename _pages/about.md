@@ -21,11 +21,11 @@ My name is Zhenrong Wang, and I am a third-year undergraduate student at Shenzhe
 
 ## Research Interests
 
-- Human Action Recognition  
-- Human and Object Interaction  
-- Humanoid Skill Learning
+- 🧠 **Unsupervised Learning** for Action Understanding
+- 👐 **Human-Object Interaction** (HOI) Recognition  
+- 🤖 **Humanoid Robot** Skill Acquisition  
 
-Currently, I am conducting research on humanoid interaction. I am looking for a PhD position starting in Fall 2026.
+*Seeking PhD opportunities in Robotics/Computer Vision for Fall 2026 admission* 
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 ''End-to-End HOI Reconstruction Transformer with Graph-based Encoding." has been accepted to CVPR 2025. This is my first paper.[Paper][Project Page](https://hoi-tg.github.io/)  
@@ -44,5 +44,5 @@ Currently, I am conducting research on humanoid interaction. I am looking for a 
 
 # 💻 Internships
 
-- *2026.09 - Present*, Research Assistant (Supervised by Assistant Professor [Wenming Cao](https://scholar.google.com/citations?user=uPxjSDIAAAAJ&hl=zh-CN)) in Guangdong Multimedia Information Service Engineering Technology Research Center, SZU.
+- *2023.09 - Present*, Research Assistant (Supervised by Assistant Professor [Wenming Cao](https://scholar.google.com/citations?user=uPxjSDIAAAAJ&hl=zh-CN)) in Guangdong Multimedia Information Service Engineering Technology Research Center, SZU.
 - *2024.10 - Present*, Research Assistant (Supervised by Assistant Professor [Qi Zheng]([https://jasonzhangs001.github.io/shiyaozhang/)](https://qizhust.github.io/)) in Guangdong Digital Creative Technology Engineering Laboratory, SZU.
