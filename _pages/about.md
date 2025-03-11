@@ -31,7 +31,7 @@ My name is Zhenrong Wang, and I am a third-year undergraduate student at Shenzhe
 - *2025.03*: &nbsp;🎉🎉 ''End-to-End HOI Reconstruction Transformer with Graph-based Encoding." has been accepted to CVPR 2025. This is my first paper.[Paper][Project Page](https://hoi-tg.github.io/)  
 
 # 📝 Publications 
-- **Zhenrong Wang**, Qi Zheng, et al. "End-to-End HOI Reconstruction Transformer with Graph-based Encoding." *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025.* [Paper][Project Page](https://hoi-tg.github.io/)
+- **Zhenrong Wang**, Qi Zheng, et al. "End-to-End HOI Reconstruction Transformer with Graph-based Encoding." *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025.* [Paper](https://arxiv.org/abs/2503.06012)  [Project Page](https://hoi-tg.github.io/)
 
 *Under Review:*
 
