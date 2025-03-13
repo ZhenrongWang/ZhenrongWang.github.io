@@ -45,4 +45,4 @@ My name is Zhenrong Wang, and I am a third-year undergraduate student at Shenzhe
 # 💻 Internships
 
 - *2023.09 - Present*, Research Assistant (Supervised by Assistant Professor [Wenming Cao](https://scholar.google.com/citations?user=uPxjSDIAAAAJ&hl=zh-CN)) in Guangdong Multimedia Information Service Engineering Technology Research Center, SZU.
-- *2024.10 - Present*, Research Assistant (Supervised by Assistant Professor [Qi Zheng](https://qizhust.github.io/) in Guangdong Digital Creative Technology Engineering Laboratory, SZU.
+- *2024.10 - Present*, Research Assistant (Supervised by Assistant Professor [Qi Zheng](https://qizhust.github.io/)) in Guangdong Digital Creative Technology Engineering Laboratory, SZU.
