@@ -28,7 +28,7 @@ My name is Zhenrong Wang, and I am a third-year undergraduate student at Shenzhe
 *Seeking PhD opportunities in Robotics/Computer Vision for Fall 2026 admission* 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 ''End-to-End HOI Reconstruction Transformer with Graph-based Encoding." has been selected as a highlight for CVPR (<3%).[Paper]
+- *2025.04*: &nbsp;🎉🎉 ''End-to-End HOI Reconstruction Transformer with Graph-based Encoding." has been selected as a highlight for CVPR (<3%).
 - *2025.03*: &nbsp;🎉🎉 ''End-to-End HOI Reconstruction Transformer with Graph-based Encoding." has been accepted to CVPR 2025. This is my first paper.
 
 # 📝 Publications 
